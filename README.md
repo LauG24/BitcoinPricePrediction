@@ -19,8 +19,6 @@ Si desean apoyar este proyecto, consideren hacer una donación a mi cuenta de Pa
 
 ---
 
-Con este texto enriquecido y alineado, ahora tienes un excelente mensaje para incluir en tu repositorio de GitHub. Si necesitas más ayuda o ajustes adicionales, ¡házmelo saber! 😊🚀
-
 
 # Predicción del Precio del Bitcoin en Tiempo Real
 
